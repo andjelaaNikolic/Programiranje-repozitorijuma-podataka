@@ -76,7 +76,7 @@ Svaki entitet ima pogled u svakom sloju: `impl.vw*` → `spec.vw_*` → `api_tre
 
 1. **Kloniraj repozitorijum**
    ```
-   git clone https://github.com/andrijanaopacic/TreninziProjekatPRP.git
+   git clone https://github.com/andjelaaNikolic/Programiranje-repozitorijuma-podataka.git
    ```
 
 2. **Otvori `DB/00_Master.sql` u SSMS**
