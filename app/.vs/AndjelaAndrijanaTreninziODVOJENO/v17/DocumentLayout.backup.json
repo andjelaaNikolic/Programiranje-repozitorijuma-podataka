@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\dbbroker\\trenerbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\trenerbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\dbbroker\\klijentbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\klijentbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDE78F9-4524-4238-8623-8A5E08C4421B}|TrenerForme\\TrenerForme.csproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\trenerforme\\podaciotreneru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DDE78F9-4524-4238-8623-8A5E08C4421B}|TrenerForme\\TrenerForme.csproj|solutionrelative:trenerforme\\podaciotreneru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDE78F9-4524-4238-8623-8A5E08C4421B}|TrenerForme\\TrenerForme.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\trenerforme\\podaciotreneru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDE78F9-4524-4238-8623-8A5E08C4421B}|TrenerForme\\TrenerForme.csproj|solutionrelative:trenerforme\\podaciotreneru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\klijentforme\\podacioklijentu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|solutionrelative:klijentforme\\podacioklijentu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\klijentforme\\podacioklijentu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|solutionrelative:klijentforme\\podacioklijentu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\klijentforme\\pracenje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|solutionrelative:klijentforme\\pracenje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\klijentforme\\registrujklijenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|solutionrelative:klijentforme\\registrujklijenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\klijentforme\\glavnaforma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|solutionrelative:klijentforme\\glavnaforma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\klijentforme\\glavnaforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|solutionrelative:klijentforme\\glavnaforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\klijentforme\\glavnaforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79B81EDA-4FA7-4CBF-BF33-73F13F1B4DA2}|KlijentForme\\KlijentForme.csproj|solutionrelative:klijentforme\\glavnaforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|c:\\users\\ljilja\\onedrive\\desktop\\faks\\programiranje repozitorijuma\\andjelaandrijanatreninzi\\dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6F0E39-EC07-411D-B34C-1E2A629FA62D}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrenerBroker.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\TrenerBroker.cs",
+              "RelativeDocumentMoniker": "DBBroker\\TrenerBroker.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\TrenerBroker.cs",
+              "RelativeToolTip": "DBBroker\\TrenerBroker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:12:46.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PodaciOTreneru.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\TrenerForme\\PodaciOTreneru.cs",
+              "RelativeDocumentMoniker": "TrenerForme\\PodaciOTreneru.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\TrenerForme\\PodaciOTreneru.cs",
+              "RelativeToolTip": "TrenerForme\\PodaciOTreneru.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:20:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PodaciOTreneru.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\TrenerForme\\PodaciOTreneru.cs",
+              "RelativeDocumentMoniker": "TrenerForme\\PodaciOTreneru.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\TrenerForme\\PodaciOTreneru.cs [Design]",
+              "RelativeToolTip": "TrenerForme\\PodaciOTreneru.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:19:48.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PodaciOKlijentu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\PodaciOKlijentu.cs",
+              "RelativeDocumentMoniker": "KlijentForme\\PodaciOKlijentu.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\PodaciOKlijentu.cs [Design]",
+              "RelativeToolTip": "KlijentForme\\PodaciOKlijentu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:09:23.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pracenje.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\Pracenje.cs",
+              "RelativeDocumentMoniker": "KlijentForme\\Pracenje.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\Pracenje.cs [Design]",
+              "RelativeToolTip": "KlijentForme\\Pracenje.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:32:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBBroker\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\DBConnection.cs",
+              "RelativeToolTip": "DBBroker\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:21:16.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PodaciOKlijentu.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\PodaciOKlijentu.cs",
+              "RelativeDocumentMoniker": "KlijentForme\\PodaciOKlijentu.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\PodaciOKlijentu.cs",
+              "RelativeToolTip": "KlijentForme\\PodaciOKlijentu.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:19:09.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrujKlijenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\RegistrujKlijenta.cs",
+              "RelativeDocumentMoniker": "KlijentForme\\RegistrujKlijenta.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\RegistrujKlijenta.cs",
+              "RelativeToolTip": "KlijentForme\\RegistrujKlijenta.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:17:49.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlavnaForma.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\GlavnaForma.cs",
+              "RelativeDocumentMoniker": "KlijentForme\\GlavnaForma.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\GlavnaForma.cs [Design]",
+              "RelativeToolTip": "KlijentForme\\GlavnaForma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:13:29.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlavnaForma.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\GlavnaForma.cs",
+              "RelativeDocumentMoniker": "KlijentForme\\GlavnaForma.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\GlavnaForma.cs",
+              "RelativeToolTip": "KlijentForme\\GlavnaForma.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:07:53.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlavnaForma.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\GlavnaForma.Designer.cs",
+              "RelativeDocumentMoniker": "KlijentForme\\GlavnaForma.Designer.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\KlijentForme\\GlavnaForma.Designer.cs",
+              "RelativeToolTip": "KlijentForme\\GlavnaForma.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T01:06:19.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KlijentBroker.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\KlijentBroker.cs",
+              "RelativeDocumentMoniker": "DBBroker\\KlijentBroker.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\KlijentBroker.cs",
+              "RelativeToolTip": "DBBroker\\KlijentBroker.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAqwN8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T00:21:57.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\Broker.cs",
+              "RelativeDocumentMoniker": "DBBroker\\Broker.cs",
+              "ToolTip": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\faks\\Programiranje repozitorijuma\\AndjelaAndrijanaTreninzi\\DBBroker\\Broker.cs",
+              "RelativeToolTip": "DBBroker\\Broker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:41:55.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

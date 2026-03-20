@@ -1,0 +1,20 @@
+SELECT name FROM sys.synonyms 
+WHERE schema_id = SCHEMA_ID('spec');
+
+(api_trener developer)
+EXECUTE AS USER = 'Andrijana';
+
+    SELECT * FROM spec.VratiSveVezbe();
+    EXEC spec.VratiTreninge;
+    SELECT * FROM impl.vezba;
+
+REVERT;
+
+(DbDeveloper)
+EXECUTE AS USER = 'Andjela';
+
+    SELECT * FROM impl.korisnik;
+    SELECT * FROM impl.vezba;
+    SELECT * FROM api_trener.TreninziTrenera(1);
+
+REVERT;

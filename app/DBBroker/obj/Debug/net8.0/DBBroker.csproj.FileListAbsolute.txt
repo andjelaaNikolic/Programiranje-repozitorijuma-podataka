@@ -1,0 +1,15 @@
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\bin\Debug\net8.0\Domen.dll
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\bin\Debug\net8.0\Domen.pdb
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\Users\Ljilja\OneDrive\Desktop\faks\Programiranje repozitorijuma\AndjelaAndrijanaTreninzi\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll

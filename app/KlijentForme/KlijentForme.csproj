@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DBBroker\DBBroker.csproj" />
+    <ProjectReference Include="..\Domen\Domen.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DetaljiTrening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginKlijent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PodaciOKlijentu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pracenje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrujKlijenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SviTreninzi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

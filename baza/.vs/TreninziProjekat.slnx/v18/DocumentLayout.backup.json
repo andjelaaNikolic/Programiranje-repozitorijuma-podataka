@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenervezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|solutionrelative:ApiTrener\\Apitrenervezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenertrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|solutionrelative:ApiTrener\\Apitrenertrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenerstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|solutionrelative:ApiTrener\\Apitrenerstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenerpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|solutionrelative:ApiTrener\\Apitrenerpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\ApiTrenerKorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|solutionrelative:ApiTrener\\ApiTrenerKorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenerexecuteas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{B9A42250-2B3E-FB71-FAB9-1A466A7F5652}|ApiTrener\\ApiTrener.ssmssqlproj|solutionrelative:ApiTrener\\Apitrenerexecuteas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|solutionrelative:ApiKlijent\\Apiklijentvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijenttrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|solutionrelative:ApiKlijent\\Apiklijenttrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|solutionrelative:ApiKlijent\\Apiklijentstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|solutionrelative:ApiKlijent\\Apiklijentpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|solutionrelative:ApiKlijent\\Apiklijentkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentexecuteas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|solutionrelative:ApiKlijent\\Apiklijentexecuteas.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\ApiKlijent.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{395D67AD-D172-0841-7DF0-D4CA345FFD3F}|ApiKlijent\\ApiKlijent.ssmssqlproj|solutionrelative:ApiKlijent\\ApiKlijent.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|solutionrelative:Spec\\Specvwpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|solutionrelative:Spec\\Specvwkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|solutionrelative:Spec\\Specvwvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|solutionrelative:Spec\\Specvwtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|solutionrelative:Spec\\Specvwstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Spec.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3B99D925-6909-F8F3-DD77-B4C6F662705F}|Spec\\Spec.ssmssqlproj|solutionrelative:Spec\\Spec.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedureimprovementkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedureimprovementpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedureimprovementtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedureimprovementvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurekorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedurekorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurepracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedurepracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurerefactoringkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedurerefactoringkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurerefactoringpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedurerefactoringpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\implprocedurerefactoringtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\implprocedurerefactoringtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurerefactoringvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedurerefactoringvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implproceduretrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implproceduretrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurevezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implprocedurevezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\ImplTrigeri.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\ImplTrigeri.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implvwkorisnik.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implvwpracenje.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implvwstavkatreninga.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implvwtrening.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\Implvwvezba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\ImplFunkcije.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\ImplFunkcije.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E0790F-626D-A693-9150-710164E9F031}|DemoPodaci\\DemoPodaci.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\DemoPodaci\\DemoPodaci.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{56E0790F-626D-A693-9150-710164E9F031}|DemoPodaci\\DemoPodaci.ssmssqlproj|solutionrelative:DemoPodaci\\DemoPodaci.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\KreiranjeTabela.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{FA60BDC0-4347-A667-D459-11EEF2EFE8BB}|impl\\impl.ssmssqlproj|solutionrelative:impl\\KreiranjeTabela.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAEBEDA-0269-047F-4A14-194278CE1B38}|KreiranjeBaze\\KreiranjeBaze.ssmssqlproj|C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\KreiranjeBaze\\KreiranjeBaze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3CAEBEDA-0269-047F-4A14-194278CE1B38}|KreiranjeBaze\\KreiranjeBaze.ssmssqlproj|solutionrelative:KreiranjeBaze\\KreiranjeBaze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apitrenervezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (64))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenervezba.sql",
+              "RelativeDocumentMoniker": "ApiTrener\\Apitrenervezba.sql",
+              "ToolTip": "Apitrenervezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (64))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:51.685Z",
+              "EditorCaption": " - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (64))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apitrenertrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (96))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenertrening.sql",
+              "RelativeDocumentMoniker": "ApiTrener\\Apitrenertrening.sql",
+              "ToolTip": "Apitrenertrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (96))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:47.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apitrenerstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (95))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenerstavkatreninga.sql",
+              "RelativeDocumentMoniker": "ApiTrener\\Apitrenerstavkatreninga.sql",
+              "ToolTip": "Apitrenerstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (95))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apitrenerpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (94))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenerpracenje.sql",
+              "RelativeDocumentMoniker": "ApiTrener\\Apitrenerpracenje.sql",
+              "ToolTip": "Apitrenerpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (94))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:39.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiTrenerKorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (93))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\ApiTrenerKorisnik.sql",
+              "RelativeDocumentMoniker": "ApiTrener\\ApiTrenerKorisnik.sql",
+              "ToolTip": "ApiTrenerKorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (93))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:36.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Apitrenerexecuteas.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (92))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiTrener\\Apitrenerexecuteas.sql",
+              "RelativeDocumentMoniker": "ApiTrener\\Apitrenerexecuteas.sql",
+              "ToolTip": "Apitrenerexecuteas.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (92))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:32.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Apiklijentvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (91))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentvezba.sql",
+              "RelativeDocumentMoniker": "ApiKlijent\\Apiklijentvezba.sql",
+              "ToolTip": "Apiklijentvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (91))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:29.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Apiklijenttrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (90))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijenttrening.sql",
+              "RelativeDocumentMoniker": "ApiKlijent\\Apiklijenttrening.sql",
+              "ToolTip": "Apiklijenttrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (90))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:25.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Apiklijentstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (89))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentstavkatreninga.sql",
+              "RelativeDocumentMoniker": "ApiKlijent\\Apiklijentstavkatreninga.sql",
+              "ToolTip": "Apiklijentstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (89))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:22.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Apiklijentpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (57))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentpracenje.sql",
+              "RelativeDocumentMoniker": "ApiKlijent\\Apiklijentpracenje.sql",
+              "ToolTip": "Apiklijentpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (57))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:17.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Apiklijentkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (88))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentkorisnik.sql",
+              "RelativeDocumentMoniker": "ApiKlijent\\Apiklijentkorisnik.sql",
+              "ToolTip": "Apiklijentkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (88))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:05:11.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apiklijentexecuteas.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (87))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\Apiklijentexecuteas.sql",
+              "RelativeDocumentMoniker": "ApiKlijent\\Apiklijentexecuteas.sql",
+              "ToolTip": "Apiklijentexecuteas.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (87))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:04:54.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiKlijent.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (83))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\ApiKlijent\\ApiKlijent.sql",
+              "RelativeDocumentMoniker": "ApiKlijent\\ApiKlijent.sql",
+              "ToolTip": "ApiKlijent.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (83))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:04:31.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Specvwvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (82))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwvezba.sql",
+              "RelativeDocumentMoniker": "Spec\\Specvwvezba.sql",
+              "ToolTip": "Specvwvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (82))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:04:07.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Specvwtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (67))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwtrening.sql",
+              "RelativeDocumentMoniker": "Spec\\Specvwtrening.sql",
+              "ToolTip": "Specvwtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (67))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:04:01.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Specvwstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (66))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwstavkatreninga.sql",
+              "RelativeDocumentMoniker": "Spec\\Specvwstavkatreninga.sql",
+              "ToolTip": "Specvwstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (66))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:57.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Specvwpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (53))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwpracenje.sql",
+              "RelativeDocumentMoniker": "Spec\\Specvwpracenje.sql",
+              "ToolTip": "Specvwpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (53))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:53.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Specvwkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (52))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Specvwkorisnik.sql",
+              "RelativeDocumentMoniker": "Spec\\Specvwkorisnik.sql",
+              "ToolTip": "Specvwkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (52))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Spec.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (51))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\Spec\\Spec.sql",
+              "RelativeDocumentMoniker": "Spec\\Spec.sql",
+              "ToolTip": "Spec.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (51))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:42.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Implprocedureimprovementkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (81))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementkorisnik.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedureimprovementkorisnik.sql",
+              "ToolTip": "Implprocedureimprovementkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (81))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:26.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Implprocedureimprovementpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (80))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementpracenje.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedureimprovementpracenje.sql",
+              "ToolTip": "Implprocedureimprovementpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (80))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Implprocedureimprovementtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (79))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementtrening.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedureimprovementtrening.sql",
+              "ToolTip": "Implprocedureimprovementtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (79))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:03.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Implprocedureimprovementvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (58))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedureimprovementvezba.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedureimprovementvezba.sql",
+              "ToolTip": "Implprocedureimprovementvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (58))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:03:00.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Implprocedurekorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (56))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurekorisnik.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedurekorisnik.sql",
+              "ToolTip": "Implprocedurekorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (56))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:55.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Implprocedurepracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (55))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurepracenje.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedurepracenje.sql",
+              "ToolTip": "Implprocedurepracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (55))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:32.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Implprocedurerefactoringkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (78))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurerefactoringkorisnik.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedurerefactoringkorisnik.sql",
+              "ToolTip": "Implprocedurerefactoringkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (78))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:28.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Implprocedurerefactoringpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (77))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurerefactoringpracenje.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedurerefactoringpracenje.sql",
+              "ToolTip": "Implprocedurerefactoringpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (77))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:25.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "implprocedurerefactoringtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (76))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\implprocedurerefactoringtrening.sql",
+              "RelativeDocumentMoniker": "impl\\implprocedurerefactoringtrening.sql",
+              "ToolTip": "implprocedurerefactoringtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (76))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:22.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Implprocedurerefactoringvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (75))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurerefactoringvezba.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedurerefactoringvezba.sql",
+              "ToolTip": "Implprocedurerefactoringvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (75))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:18.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Implproceduretrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (74))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implproceduretrening.sql",
+              "RelativeDocumentMoniker": "impl\\Implproceduretrening.sql",
+              "ToolTip": "Implproceduretrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (74))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:12.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Implprocedurevezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (73))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implprocedurevezba.sql",
+              "RelativeDocumentMoniker": "impl\\Implprocedurevezba.sql",
+              "ToolTip": "Implprocedurevezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (73))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:08.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ImplTrigeri.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (72))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\ImplTrigeri.sql",
+              "RelativeDocumentMoniker": "impl\\ImplTrigeri.sql",
+              "ToolTip": "ImplTrigeri.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (72))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:02:04.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Implvwkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (71))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwkorisnik.sql",
+              "RelativeDocumentMoniker": "impl\\Implvwkorisnik.sql",
+              "ToolTip": "Implvwkorisnik.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (71))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:01:59.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Implvwpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (70))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwpracenje.sql",
+              "RelativeDocumentMoniker": "impl\\Implvwpracenje.sql",
+              "ToolTip": "Implvwpracenje.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (70))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:01:55.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Implvwstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (69))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwstavkatreninga.sql",
+              "RelativeDocumentMoniker": "impl\\Implvwstavkatreninga.sql",
+              "ToolTip": "Implvwstavkatreninga.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (69))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:01:47.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ImplFunkcije.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (68))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\ImplFunkcije.sql",
+              "RelativeDocumentMoniker": "impl\\ImplFunkcije.sql",
+              "ToolTip": "ImplFunkcije.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (68))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:01:32.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DemoPodaci.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (65))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\DemoPodaci\\DemoPodaci.sql",
+              "RelativeDocumentMoniker": "DemoPodaci\\DemoPodaci.sql",
+              "ToolTip": "DemoPodaci.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (65))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:00:42.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Implvwtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (62))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwtrening.sql",
+              "RelativeDocumentMoniker": "impl\\Implvwtrening.sql",
+              "ToolTip": "Implvwtrening.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (62))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:00:28.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Implvwvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (60))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\Implvwvezba.sql",
+              "RelativeDocumentMoniker": "impl\\Implvwvezba.sql",
+              "ToolTip": "Implvwvezba.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (60))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:00:23.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "KreiranjeTabela.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (61))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\impl\\KreiranjeTabela.sql",
+              "RelativeDocumentMoniker": "impl\\KreiranjeTabela.sql",
+              "ToolTip": "KreiranjeTabela.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (61))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T11:00:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "KreiranjeBaze.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (54))",
+              "DocumentMoniker": "C:\\Users\\Ljilja\\OneDrive\\Desktop\\TreninziProjekat\\KreiranjeBaze\\KreiranjeBaze.sql",
+              "RelativeDocumentMoniker": "KreiranjeBaze\\KreiranjeBaze.sql",
+              "ToolTip": "KreiranjeBaze.sql - (localdb)\\MSSQLLocalDB.treninzi (DESKTOP-4RG1PNJ\\Ljilja (54))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-16T10:59:50.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
